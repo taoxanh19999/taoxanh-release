@@ -27,6 +27,7 @@
           "System.Text.Json": "7.0.1",
           "TaoXanh.Ultility": "1.0.0",
           "WinFormsComInterop": "0.3.2",
+          "XAct.Core.PCL": "0.0.5014",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "7.0.0",
           "runtimepack.Microsoft.WindowsDesktop.App.Runtime.win-x64": "7.0.0"
         },
@@ -972,6 +973,14 @@
           },
           "wpfgfx_cor3.dll": {
             "fileVersion": "7.0.22.51802"
+          }
+        }
+      },
+      "CommonServiceLocator/1.3.0": {
+        "runtime": {
+          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
           }
         }
       },
@@ -2345,6 +2354,17 @@
           }
         }
       },
+      "XAct.Core.PCL/0.0.5014": {
+        "dependencies": {
+          "CommonServiceLocator": "1.3.0"
+        },
+        "runtime": {
+          "lib/portable-win+net45+sl50+wp80/XAct.Core.PCL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "0.0.5014.0"
+          }
+        }
+      },
       "ZXing.Net/0.16.8": {
         "runtime": {
           "lib/net6.0/zxing.dll": {
@@ -2407,6 +2427,13 @@
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
+    },
+    "CommonServiceLocator/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fbjO0SNwbOFPdwVfyqv+B7gIJ2CVBOFPKqn1mDDECK7KER8jFaOdcvroFYoAHa0ktPbxi5s+15qOLnA96f8GSA==",
+      "path": "commonservicelocator/1.3.0",
+      "hashPath": "commonservicelocator.1.3.0.nupkg.sha512"
     },
     "Emgu.CV/4.5.5.4823": {
       "type": "package",
@@ -3492,6 +3519,13 @@
       "sha512": "sha512-uDv6zBcJ6yV0pQnt8SZM3ztFAnC60YqZ4P+A2FY1JNkZEU+RKknQXWdZImgtyLlBHi7SQjdI1nBg4Ks6ZepwgQ==",
       "path": "winformscominterop/0.3.2",
       "hashPath": "winformscominterop.0.3.2.nupkg.sha512"
+    },
+    "XAct.Core.PCL/0.0.5014": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r0rX5Dzr0mfUp8FtVnxXlv5w+cXhz6tHfQ79lf6naLB92J+h2wkGw0q6CfOa2FiveN2ahSflf6LB2G1cOx43AQ==",
+      "path": "xact.core.pcl/0.0.5014",
+      "hashPath": "xact.core.pcl.0.0.5014.nupkg.sha512"
     },
     "ZXing.Net/0.16.8": {
       "type": "package",
