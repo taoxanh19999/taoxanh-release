@@ -1,0 +1,43 @@
+{"Timestamp":"2023-02-07T19:08:32.9178118+07:00","Level":"Information","MessageTemplate":"Api2_Init"}
+{"Timestamp":"2023-02-07T19:08:32.9734823+07:00","Level":"Debug","MessageTemplate":"start timer OK\r\n"}
+{"Timestamp":"2023-02-07T19:08:34.1942839+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:08:35.3467437+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->getproxy: {\"status\":\"success\",\"data\":{\"location\":\"dn\",\"proxy\":\"116.98.51.129:5004\",\"auth\":\"\",\"nextChange\":300,\"proxyTimeout\":1800}}"}
+{"Timestamp":"2023-02-07T19:08:35.3468674+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->retstr: 116.98.51.129:5004"}
+{"Timestamp":"2023-02-07T19:08:35.3478171+07:00","Level":"Debug","MessageTemplate":"AddAPIKey GetNewProxyShopLike ->proxyInfo.host->116.98.51.129, proxyInfo.port->5004"}
+{"Timestamp":"2023-02-07T19:08:35.3520821+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:08:35.5761666+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->getproxy: {\"status\":\"success\",\"data\":{\"location\":\"dn\",\"proxy\":\"116.98.52.149:5014\",\"auth\":\"\",\"nextChange\":300,\"proxyTimeout\":1800}}"}
+{"Timestamp":"2023-02-07T19:08:35.5762779+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->retstr: 116.98.52.149:5014"}
+{"Timestamp":"2023-02-07T19:08:35.5765575+07:00","Level":"Debug","MessageTemplate":"AddAPIKey GetNewProxyShopLike ->proxyInfo.host->116.98.52.149, proxyInfo.port->5014"}
+{"Timestamp":"2023-02-07T19:09:34.1993680+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->starting get new-ip "}
+{"Timestamp":"2023-02-07T19:09:34.1994467+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:09:35.0851115+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->getproxy: {\"status\":\"error\",\"mess\":\"Con lai 240 giay de get proxy moi\",\"nextChange\":240,\"proxyTimeout\":1800}"}
+{"Timestamp":"2023-02-07T19:09:35.0853611+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:09:36.0037182+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike->getproxy: {\"status\":\"success\",\"data\":{\"location\":\"dn\",\"proxy\":\"116.98.52.149:5014\",\"auth\":\"\"}}"}
+{"Timestamp":"2023-02-07T19:09:36.0038236+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike->retstr: 116.98.52.149:5014"}
+{"Timestamp":"2023-02-07T19:09:36.0040325+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->apikey->, get_ip=>116.98.52.149:5014 "}
+{"Timestamp":"2023-02-07T19:10:34.2034336+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->starting get new-ip "}
+{"Timestamp":"2023-02-07T19:10:34.2034996+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:10:35.2269198+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->getproxy: {\"status\":\"error\",\"mess\":\"Con lai 180 giay de get proxy moi\",\"nextChange\":180,\"proxyTimeout\":1800}"}
+{"Timestamp":"2023-02-07T19:10:35.2271853+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:10:35.5597472+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike->getproxy: {\"status\":\"success\",\"data\":{\"location\":\"dn\",\"proxy\":\"116.98.52.149:5014\",\"auth\":\"\"}}"}
+{"Timestamp":"2023-02-07T19:10:35.5598073+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike->retstr: 116.98.52.149:5014"}
+{"Timestamp":"2023-02-07T19:10:35.5599925+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->apikey->, get_ip=>116.98.52.149:5014 "}
+{"Timestamp":"2023-02-07T19:11:34.2062883+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->starting get new-ip "}
+{"Timestamp":"2023-02-07T19:11:34.2063701+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:11:34.5830309+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->getproxy: {\"status\":\"error\",\"mess\":\"Con lai 121 giay de get proxy moi\",\"nextChange\":121,\"proxyTimeout\":1800}"}
+{"Timestamp":"2023-02-07T19:11:34.5835012+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:11:35.3331143+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike->getproxy: {\"status\":\"success\",\"data\":{\"location\":\"dn\",\"proxy\":\"116.98.52.149:5014\",\"auth\":\"\"}}"}
+{"Timestamp":"2023-02-07T19:11:35.3331922+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike->retstr: 116.98.52.149:5014"}
+{"Timestamp":"2023-02-07T19:11:35.3334476+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->apikey->, get_ip=>116.98.52.149:5014 "}
+{"Timestamp":"2023-02-07T19:12:34.1963907+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->starting get new-ip "}
+{"Timestamp":"2023-02-07T19:12:34.1966033+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:12:35.2756947+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->getproxy: {\"status\":\"error\",\"mess\":\"Con lai 60 giay de get proxy moi\",\"nextChange\":60,\"proxyTimeout\":1800}"}
+{"Timestamp":"2023-02-07T19:12:35.2762712+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:12:36.0953620+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike->getproxy: {\"status\":\"success\",\"data\":{\"location\":\"dn\",\"proxy\":\"116.98.52.149:5014\",\"auth\":\"\"}}"}
+{"Timestamp":"2023-02-07T19:12:36.0954790+07:00","Level":"Debug","MessageTemplate":"GetCurrentProxyShopLike->retstr: 116.98.52.149:5014"}
+{"Timestamp":"2023-02-07T19:12:36.0958038+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->apikey->, get_ip=>116.98.52.149:5014 "}
+{"Timestamp":"2023-02-07T19:13:34.2047924+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->starting get new-ip "}
+{"Timestamp":"2023-02-07T19:13:34.2048809+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike-> start "}
+{"Timestamp":"2023-02-07T19:13:35.2561403+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->getproxy: {\"status\":\"success\",\"data\":{\"location\":\"hd\",\"proxy\":\"116.104.168.215:5028\",\"auth\":\"\",\"nextChange\":300,\"proxyTimeout\":1800}}"}
+{"Timestamp":"2023-02-07T19:13:35.2562653+07:00","Level":"Debug","MessageTemplate":"GetNewProxyShopLike->retstr: 116.104.168.215:5028"}
+{"Timestamp":"2023-02-07T19:13:35.2566082+07:00","Level":"Debug","MessageTemplate":"OnTimedEvent->apikey->, get_new_ip=>116.104.168.215:5028 "}

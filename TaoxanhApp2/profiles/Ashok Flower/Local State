@@ -1,0 +1,131 @@
+{
+   "browser": {
+      "shortcut_migration_version": "106.0.5249.119"
+   },
+   "hardware_acceleration_mode_previous": true,
+   "intl": {
+      "app_locale": "en"
+   },
+   "invalidation": {
+      "per_sender_topics_to_handler": {
+      }
+   },
+   "legacy": {
+      "profile": {
+         "name": {
+            "migrated": true
+         }
+      }
+   },
+   "management": {
+      "platform": {
+         "azure_active_directory": 0,
+         "enterprise_mdm_win": 0
+      }
+   },
+   "policy": {
+      "last_statistics_update": "13320245373383788"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "active_time": 1675771773.490114,
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+            "background_apps": false,
+            "force_signin_profile_locked": false,
+            "gaia_given_name": "",
+            "gaia_id": "",
+            "gaia_name": "",
+            "hosted_domain": "",
+            "is_consented_primary_account": false,
+            "is_ephemeral": false,
+            "is_using_default_avatar": true,
+            "is_using_default_name": true,
+            "managed_user_id": "",
+            "metrics_bucket_index": 1,
+            "name": "Profile 1",
+            "signin.with_credential_provider": false,
+            "user_name": ""
+         }
+      },
+      "last_active_profiles": [  ],
+      "metrics": {
+         "next_bucket_index": 2
+      },
+      "profile_counts_reported": "13320245373387330"
+   },
+   "profile_network_context_service": {
+      "http_cache_finch_experiment_groups": "None None None None"
+   },
+   "session_id_generator_last_value": "281750803",
+   "shutdown": {
+      "num_processes": 3,
+      "num_processes_slow": 2,
+      "type": 1
+   },
+   "subresource_filter": {
+      "ruleset_version": {
+         "checksum": 0,
+         "content": "",
+         "format": 0
+      }
+   },
+   "tab_stats": {
+      "discards_external": 0,
+      "discards_urgent": 0,
+      "last_daily_sample": "13320245373507994",
+      "max_tabs_per_window": 2,
+      "reloads_external": 0,
+      "reloads_urgent": 0,
+      "total_tab_count_max": 2,
+      "window_count_max": 1
+   },
+   "ukm": {
+      "persisted_logs": [  ]
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1675771773"
+   },
+   "user_experience_metrics": {
+      "client_id2": "d41d1e1d-e276-441a-80fe-e7a9b43bf0f6",
+      "client_id_timestamp": "1675771773",
+      "initial_logs2": [ {
+         "data": "H4sIAAAAAAAAAON0yWnJynx3aJcAg1QHM8e+SxNnsQmJGxqY6RnomRqZWOoZGlrqmpnopqSWpeZIHPjVMZ9NiTU1Tzc0WEuCiys8My8lv7xYwS9EiMvQAKjFyMjMyNBoDiMXW4WFWbyZicC9WomGhguNB/7LK3FHBAQrGBorWBobGmgwGjTIWTwQcuLiYADazGDEYMXgGxqq6RwKIlIZGBjss8S4eNxT80oz81I980pScwQO9ipIcCgwNDEydDEyrGKE2rCBkfEUow4Xp0tqTo6CZ16ynhCbgbu7ZUCIFEJIicvF1cdHQUFBV8FIg8GLizdX2SpO9ELbo0gge9L28M2i98W97AMYsnhArpFgUGCzYHBgaGAEe3cGI8MPxu18DUz/YYCxg4lxEpNKiolhimGqYYpuqpG5ma6JiWGiroVBWqpuqnmiZZKJcVKaQZrZCqb5ypuYDDwTrlZV9elvzb/pmDiTrTbgK6dxZrnD5MtV+q2eAZl/hc5nGNe/EAo38/nMG9vbJbLHSJBT/OfpV2LFZ3sE7rFLMQvcZzfi53zdlKG7Q4jvjwCjFJMAk5Ewp/7Uyqfe/gw7QAIcDGBBRc7be73fTWUw4BFobmho+AF2rxS3QAucY8TLKRSyTGZj6duTQB0g7gTLhfvun57/BcwV57z/I+JX0FrFeIEDk2WlODjm3xQR+DpdFqhuS7HUspuWDA5gdYqcYb5HLj+QjdXBaRE/58NdtRIy1VmlEBcDAHsgrrtsAgAA",
+         "hash": "vsX2PbsK7wW64o5coBWp6tPUWCc=",
+         "signature": "HofYQI19fTmxK+/AkmUk/cCets4G3indedCIsr0RrTg=",
+         "timestamp": "1675772048"
+      } ],
+      "last_seen": {
+         "CrashpadMetrics": "13320245376856819"
+      },
+      "low_entropy_source3": 1847,
+      "machine_id": 16772576,
+      "ongoing_logs2": [  ],
+      "pseudo_low_entropy_source": 4511,
+      "session_id": 1,
+      "stability": {
+         "browser_last_live_timestamp": "13320245673464916",
+         "exited_cleanly": true,
+         "saved_system_profile": "CL7SkZoGEhcxMDYuMC41MjQ5LjExOS02NC1kZXZlbBjA+oifBiIFZW4tVVMqGAoKV2luZG93cyBOVBIKMTAuMC4yMjYyMTKcAQoGeDg2XzY0EN59GICA0IHA/x8iC1hQUyAxMyA5MzEwKAEwgB444BJCCggAEAAaADIAOgBNVVUpQ1VVVSlDZQAAAD9qFgoMR2VudWluZUludGVsEMGNIBgIIACCAQCKAQCqAQZ4ODZfNjSwAQHKASwKCURlbGwgSW5jLhIGMEdHOVBUGglEZWxsIEluYy4iCkRFTEwgICAtIDIoAEoKDW0jOl4V0IbiWUoKDZK3V7MV3xdKP1AAagwIABAAGAAgBjgAQACAAcD6iJ8GmAEA+AG3DoAC////////////AYgCAZICJGQ0MWQxZTFkLWUyNzYtNDQxYS04MGZlLWU3YTliNDNiZjBmNqgCnyOyAjBJYNV6eo4vtW/ZQWGZBn1Q9QkzaXdAk9N6L4VJUGn9Es9oM3/oElc2TPMNXY2KFLw=",
+         "saved_system_profile_hash": "EAE24AB0B3E5DB525564DB7CCE68EF256862B19C",
+         "stats_buildtime": "1665427774",
+         "stats_version": "106.0.5249.119-64-devel",
+         "system_crash_count": 0
+      },
+      "unsent_log_metadata": {
+         "initial_logs": {
+            "sent_samples_count": 0,
+            "unsent_persisted_size_in_kb": 1,
+            "unsent_samples_count": 11
+         },
+         "ongoing_logs": {
+            "sent_samples_count": 0,
+            "unsent_persisted_size_in_kb": 0,
+            "unsent_samples_count": 0
+         }
+      }
+   },
+   "was": {
+      "restarted": false
+   }
+}
